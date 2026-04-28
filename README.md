@@ -6,7 +6,7 @@ A custom supply drop system for SCP: Secret Laboratory using the EXILED framewor
 * **Automatic Timer:** A countdown starts as soon as the round begins.
 * **Radio Notifications:** Players holding a radio receive periodic hints about the remaining time.
 * **Global Announcements:** When the supply drop arrives, a broadcast message is sent to everyone.
-* **Fully Configurable:** You can easily customize the loot table, drop chances, and amounts via the `config.yml` file.
+* **Fully Configurable:** You can easily customize the loot table, drop chances, and amounts via the `config.cs` file.
 
 ## How it works
 1. When the round starts, a timer (default 400 seconds) begins.
