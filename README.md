@@ -21,4 +21,4 @@ A custom supply drop system for SCP: Secret Laboratory using the EXILED framewor
 4. Customize the items in the generated config file.
 
 ## Requirements
-* [EXILED Framework](https://github.com/Exiled-Team/Exiled)
+* [EXILED Framework](https://github.com/ExMod-Team/EXILED)
